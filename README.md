@@ -1,12 +1,16 @@
 # Project04-Platformer
 
 # Project Name
-Context and date
+Platformer 3/16/2025
 
-Description
+A 2d platformer game prototype
 
 ## Implementation
-Which features you included.
+I added two of my own sprites
+Made a death sound effect and music
+added a powerup that allows the player to shoot fireballs
+added another enemy that looks the same, but can either jump constantly, move forward constantly, or charges you when it sees you, basically mimics the other types
+Also added an end screen
 
 ## References
 
@@ -17,3 +21,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Angel Zamorano
